@@ -2,7 +2,6 @@
 composer.phar
 composer.lock
 phpunit.xml
-vendor
 .idea
 .project
 lib/fonts/*.afm.php
